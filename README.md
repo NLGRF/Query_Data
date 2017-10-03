@@ -1,13 +1,14 @@
-# Query_Data
+# Query_Data With Javascript
 
-# Install
+## Install npm
+
 ```
 # install sentiment-analysis
 
 npm install sentiment-analysis --save
 ```
 
-<a>https://www.npmjs.com/package/sentiment-analysis</a>
+link => <a>https://www.npmjs.com/package/sentiment-analysis</a>
 
 ```
 # install sentiment
@@ -15,7 +16,11 @@ npm install sentiment-analysis --save
 npm install sentiment --save
 ```
 
-<a>https://www.npmjs.com/package/sentiment</a>
+link => <a>https://www.npmjs.com/package/sentiment</a>
+
+# Query_Data With Python
+
+## Install pip
 
 ```
 # install lyricwikia
