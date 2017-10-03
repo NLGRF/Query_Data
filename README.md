@@ -28,11 +28,6 @@ pip install lyricwikia
 ```
 
 ```
-# install lyricwikia
-pip install lyricwikia
-```
-
-```
 # install html query
 pip install lxml
 pip install requests
